@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 03 Dec 2024 00:52:48 at https://api-report1.aoi-gadget.icu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0c8H0%kf2A100000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ja, en, *" https://api-report1.aoi-gadget.icu/ -O1 "C:\My Web Sites\https___api-report1.aoi-gadget.icu_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:52:58	Warning: 	Moved Permanently for https://api-report1.aoi-gadget.icu/?p=6
+00:52:58	Warning: 	File has moved from https://api-report1.aoi-gadget.icu/?p=6 to https://api-report1.aoi-gadget.icu/portfolio/
+00:52:58	Warning: 	Moved Permanently for https://api-report1.aoi-gadget.icu/?p=2
+00:52:58	Warning: 	File has moved from https://api-report1.aoi-gadget.icu/?p=2 to https://api-report1.aoi-gadget.icu/sample-page/
+00:52:59	Warning: 	Found for api-report1.aoi-gadget.icu/wp-admin/
+00:52:59	Warning: 	Redirected link is identical because of 'URL Hack' option: api-report1.aoi-gadget.icu/wp-admin/ and https://api-report1.aoi-gadget.icu/wp-admin/
+00:52:59	Warning: 	File has moved from api-report1.aoi-gadget.icu/wp-admin/ to https://api-report1.aoi-gadget.icu/wp-admin/
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 seconds : 42 links scanned, 37 files written (1619801 bytes overall) [981096 bytes received at 89190 bytes/sec], 845913 bytes transferred using HTTP compression in 25 files, ratio 22%, 8.4 requests per connection
+(No errors, 7 warnings, 0 messages)
